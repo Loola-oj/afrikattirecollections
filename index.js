@@ -24,10 +24,10 @@ let id = 0;
 // Image Path
 const images = [
     'adire5.jpg',
-    'adire1.jpg',
-    'adire7.jpg',
-    'adire.jpg',
-    'adire6.jpg',
+    'adire1.jpeg',
+    'adire7.png',
+    'adire.jpeg',
+    'adire6.jpeg',
 ];
 
 // Theme Colors
